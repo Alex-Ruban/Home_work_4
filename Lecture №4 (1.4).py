@@ -12,7 +12,7 @@ class Student:
     def __init__(self, id, name, dob, address, phone, faculty, course, group):
         self.id_student = id
         self.name_student = name
-        self.DOB_student = dob
+        self.dob_student = dob
         self.address_student = address
         self.phone_student = phone
         self.faculty_student = faculty
