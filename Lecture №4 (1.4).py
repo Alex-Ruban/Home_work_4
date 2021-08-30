@@ -27,7 +27,7 @@ class Student:
         return self.name_student
 
     def get_data(self):
-        return self.DOB_student
+        return self.dob_student
 
     def get_address(self):
         return self.address_student
